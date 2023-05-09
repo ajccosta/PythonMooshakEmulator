@@ -1,0 +1,16 @@
+Introduza um novo comando: Nome: Pais: Ano: Introduza um novo comando: Nome: Pais: Ano: Introduza um novo comando: Nome: Pais: Ano: Introduza um novo comando: Nome: Pais: Ano: Introduza um novo comando: Nome: Pais: Ano: Introduza um novo comando: Nome: Ano inicial: Ano final: ['Espanha']
+Introduza um novo comando: Nome: Ano inicial: Ano final: []
+Introduza um novo comando: Nome: Ano inicial: Ano final: ['Chile', 'Espanha']
+Introduza um novo comando: Nome: Ano inicial: Ano final: []
+Introduza um novo comando: Comando desconhecido.
+Introduza um novo comando: Comando desconhecido.
+Introduza um novo comando: Comando desconhecido.
+Introduza um novo comando: Nome: Ano inicial: Ano final: ['Brasil', 'Italia']
+Introduza um novo comando: Nome: Ano inicial: Ano final: []
+Introduza um novo comando: Joao
+[('Espanha', 2019)]
+Marco
+[('Brasil', 2017), ('Italia', 2020)]
+Maria
+[('Chile', 2017), ('Espanha', 2019)]
+Introduza um novo comando: Obrigado!

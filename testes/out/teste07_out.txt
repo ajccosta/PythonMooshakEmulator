@@ -1,0 +1,2 @@
+Introduza um novo comando: Comando desconhecido.
+Introduza um novo comando: Obrigado!

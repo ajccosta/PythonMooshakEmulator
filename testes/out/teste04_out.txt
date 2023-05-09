@@ -1,0 +1,11 @@
+Introduza um novo comando: Nome: Pais: Ano: Introduza um novo comando: Nome: Pais: Ano: Introduza um novo comando: Nome: Pais: Ano: Introduza um novo comando: Nome: Pais: Ano: Introduza um novo comando: Nome: Pais: Ano: Introduza um novo comando: Nome: [('Espanha', 2019)]
+Introduza um novo comando: Nome: [('Chile', 2017), ('Espanha', 2019)]
+Introduza um novo comando: Nome: [('Brasil', 2017), ('Italia', 2020)]
+Introduza um novo comando: Nome: []
+Introduza um novo comando: Joao
+[('Espanha', 2019)]
+Marco
+[('Brasil', 2017), ('Italia', 2020)]
+Maria
+[('Chile', 2017), ('Espanha', 2019)]
+Introduza um novo comando: Obrigado!
